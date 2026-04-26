@@ -44,6 +44,22 @@ To develop an intelligent system that helps users organize tasks, manage shoppin
 - System tracks deadlines
 - Generates reminders automatically
 - AI components assist with interaction and classification
+  ## 📸 Screenshots
+
+### 🏠 Home / Task Dashboard
+![Task Home](task-home.png)
+
+### 🛒 Shopping Module
+![Shopping](shopping.png)
+
+### ✅ Task Management
+![Task](task.png)
+
+### 📧 Email Classification
+![Email](email.png)
+
+### ⏰ Reminder System
+![Reminder](reminder.png)
 
 ## 📈 Outcome
 The project improves productivity by combining task management, shopping reminders, and AI-based features into a single platform.
